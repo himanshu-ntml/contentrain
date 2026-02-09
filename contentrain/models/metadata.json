@@ -1,0 +1,9 @@
+[
+  {
+    "name": "authors",
+    "modelId": "authors",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "community"
+  }
+]
