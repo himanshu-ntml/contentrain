@@ -13,7 +13,7 @@
     "fieldType": "string"
   },
   {
-    "name": "description",
+    "name": "Description",
     "fieldId": "description",
     "modelId": "pages",
     "componentId": "rich-text-editor",
