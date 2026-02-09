@@ -1,6 +1,6 @@
 [
   {
-    "name": "title",
+    "name": "Title",
     "fieldId": "title",
     "modelId": "pages",
     "componentId": "multi-line-text",
